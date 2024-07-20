@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Yumurta",
+        "brand": null,
+        "portion": "1 orta boy",
+        "nutrition": {
+            "calories": 65.0,
+            "fat": 4.37,
+            "carbs": 0.34,
+            "protein": 5.54
+        }
+    },
+    {
+        "name": "Haşlanmış Yumurta",
+        "brand": null,
+        "portion": "1 büyük",
+        "nutrition": {
+            "calories": 78.0,
+            "fat": 5.3,
+            "carbs": 0.56,
+            "protein": 6.29
+        }
+    },
+    {
+        "name": "Kızarmış Yumurta",
+        "brand": null,
+        "portion": "1 büyük",
+        "nutrition": {
+            "calories": 89.0,
+            "fat": 6.76,
+            "carbs": 0.43,
+            "protein": 6.24
+        }
+    },
+    {
+        "name": "Omlet Yumurta veya Karışık Yumurta",
+        "brand": null,
+        "portion": "1 büyük",
+        "nutrition": {
+            "calories": 98.0,
+            "fat": 7.14,
+            "carbs": 1.15,
+            "protein": 6.81
+        }
+    },
+    {
+        "name": "Çırpılmış Yumurta (Bütün, Pişirilmiş)",
+        "brand": null,
+        "portion": "1 büyük",
+        "nutrition": {
+            "calories": 101.0,
+            "fat": 7.45,
+            "carbs": 1.34,
+            "protein": 6.76
+        }
+    },
+    {
+        "name": "Yumurta Beyazı",
+        "brand": null,
+        "portion": "1 büyük",
+        "nutrition": {
+            "calories": 17.0,
+            "fat": 0.06,
+            "carbs": 0.24,
+            "protein": 3.6
+        }
+    },
+    {
+        "name": "Sahanda Yumurta",
+        "brand": null,
+        "portion": "1 porsiyon",
+        "nutrition": {
+            "calories": 277.0,
+            "fat": 21.79,
+            "carbs": 3.28,
+            "protein": 16.02
+        }
+    },
+    {
+        "name": "Çırpılmış Yumurta",
+        "brand": null,
+        "portion": "2 yumurta",
+        "nutrition": {
+            "calories": 199.0,
+            "fat": 15.21,
+            "carbs": 1.96,
+            "protein": 13.01
+        }
+    },
+    {
+        "name": "Yumurta Omleti",
+        "brand": null,
+        "portion": "1 büyük",
+        "nutrition": {
+            "calories": 93.0,
+            "fat": 7.33,
+            "carbs": 0.42,
+            "protein": 6.48
+        }
+    },
+    {
+        "name": "Yağsız Kızarmış Yumurta",
+        "brand": null,
+        "portion": "1 orta boy",
+        "nutrition": {
+            "calories": 65.0,
+            "fat": 4.37,
+            "carbs": 0.34,
+            "protein": 5.53
+        }
+    }
+]

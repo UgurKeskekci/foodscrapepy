@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Tavuk Göğsü",
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 195.0,
+            "fat": 7.72,
+            "carbs": 0.0,
+            "protein": 29.55
+        }
+    },
+    {
+        "name": "Fırında Tavuk",
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 237.0,
+            "fat": 13.49,
+            "carbs": 0.0,
+            "protein": 27.07
+        }
+    },
+    {
+        "name": "Haşlanmış Tavuk Göğsü",
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 110.0,
+            "fat": 0.85,
+            "carbs": 0.0,
+            "protein": 24.07
+        }
+    },
+    {
+        "name": "Tavuk But",
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 120.0,
+            "fat": 3.81,
+            "carbs": 0.0,
+            "protein": 20.13
+        }
+    },
+    {
+        "name": "Izgara Tavuk",
+        "portion": "1 orta boy parça",
+        "nutrition": {
+            "calories": 147.0,
+            "fat": 8.36,
+            "carbs": 0.0,
+            "protein": 16.79
+        }
+    },
+    {
+        "name": "Tavuk Eti (Pişmiş, Kavrulmuş, Kavurma)",
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 167.0,
+            "fat": 6.63,
+            "carbs": 0.0,
+            "protein": 25.01
+        }
+    },
+    {
+        "name": "Tavuk Sote",
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 101.0,
+            "fat": 5.12,
+            "carbs": 2.56,
+            "protein": 11.04
+        }
+    },
+    {
+        "name": "Tavuk Göğüs Eti (Kızarmış, Pişmiş)",
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 187.0,
+            "fat": 4.71,
+            "carbs": 0.51,
+            "protein": 33.44
+        }
+    },
+    {
+        "name": "Tavuk Pirzola",
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 171.0,
+            "fat": 8.79,
+            "carbs": 0.41,
+            "protein": 21.17
+        }
+    },
+    {
+        "name": "Tavuk (Derisi Yenmeden)",
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 188.0,
+            "fat": 7.35,
+            "carbs": 0.0,
+            "protein": 28.69
+        }
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Patates",
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 70.0,
+            "fat": 0.1,
+            "carbs": 15.71,
+            "protein": 1.68
+        }
+    },
+    {
+        "name": "Patates (İçi, Tuzlu, Haşlanmış)",
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 87.0,
+            "fat": 0.1,
+            "carbs": 20.13,
+            "protein": 1.87
+        }
+    },
+    {
+        "name": "Ev Kızartması",
+        "portion": "1 kase",
+        "nutrition": {
+            "calories": 359.0,
+            "fat": 18.7,
+            "carbs": 45.38,
+            "protein": 4.21
+        }
+    },
+    {
+        "name": "Patates Yemeği",
+        "portion": "1 porsiyon",
+        "nutrition": {
+            "calories": 193.0,
+            "fat": 13.27,
+            "carbs": 17.79,
+            "protein": 1.94
+        }
+    },
+    {
+        "name": "Kavrulmuş Patates",
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 149.0,
+            "fat": 7.0,
+            "carbs": 20.06,
+            "protein": 2.32
+        }
+    },
+    {
+        "name": "Patates (İçi, Tuzsuz, Haşlanmış)",
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 87.0,
+            "fat": 0.1,
+            "carbs": 20.13,
+            "protein": 1.87
+        }
+    },
+    {
+        "name": "Pişmiş Patates (Kabuğu Yenmeden)",
+        "portion": "1 orta boy",
+        "nutrition": {
+            "calories": 121.0,
+            "fat": 0.13,
+            "carbs": 28.02,
+            "protein": 2.55
+        }
+    },
+    {
+        "name": "Fırında Pişmiş Patates (Kabuğu Yenmiş)",
+        "portion": "1 orta boy",
+        "nutrition": {
+            "calories": 194.0,
+            "fat": 3.92,
+            "carbs": 36.54,
+            "protein": 4.32
+        }
+    },
+    {
+        "name": "Patates Püresi",
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 100.0,
+            "fat": 3.54,
+            "carbs": 15.72,
+            "protein": 1.8
+        }
+    }
+]

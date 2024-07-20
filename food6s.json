@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Coca-Cola",
+        "portion": "1 bottle (330ml)",
+        "nutrition": {
+            "calories": 149.0,
+            "fat": 0.0,
+            "carbs": 37.0,
+            "protein": 0.0
+        }
+    },
+    {
+        "name": "Kola",
+        "portion": "100ml",
+        "nutrition": {
+            "calories": 28.0,
+            "fat": 0.0,
+            "carbs": 7.0,
+            "protein": 0.0
+        }
+    },
+    {
+        "name": "Coca-Cola Zero (250ml)",
+        "portion": "1 bardak (250ml)",
+        "nutrition": {
+            "calories": 1.0,
+            "fat": 0.0,
+            "carbs": 0.0,
+            "protein": 0.0
+        }
+    },
+    {
+        "name": "Kola",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 21.0,
+            "fat": 0.0,
+            "carbs": 5.2,
+            "protein": 0.0
+        }
+    },
+    {
+        "name": "Le Cola",
+        "portion": "100ml",
+        "nutrition": {
+            "calories": 46.0,
+            "fat": 0.0,
+            "carbs": 11.4,
+            "protein": 0.0
+        }
+    },
+    {
+        "name": "Yupo Kola",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 322.0,
+            "fat": 0.14,
+            "carbs": 75.0,
+            "protein": 5.8
+        }
+    },
+    {
+        "name": "Kolajen Peptit",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 360.0,
+            "fat": 0.0,
+            "carbs": 0.0,
+            "protein": 90.0
+        }
+    },
+    {
+        "name": "Kola",
+        "portion": "100ml",
+        "nutrition": {
+            "calories": 42.0,
+            "fat": 0.0,
+            "carbs": 10.5,
+            "protein": 0.0
+        }
+    },
+    {
+        "name": "Kolajenlo Somon Çorba",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 84.0,
+            "fat": 6.35,
+            "carbs": 1.33,
+            "protein": 4.12
+        }
+    }
+]

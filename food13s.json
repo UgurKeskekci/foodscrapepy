@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Baldo Pirinç",
+        "brand": null,
+        "portion": "100g",
+        "nutrition": {
+            "calories": 345.0,
+            "fat": 1.06,
+            "carbs": 77.24,
+            "protein": 0.0
+        }
+    },
+    {
+        "name": "Pirinç Pilavı",
+        "brand": null,
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 125.0,
+            "fat": 3.24,
+            "carbs": 21.57,
+            "protein": 2.07
+        }
+    },
+    {
+        "name": "Osmancık Pirinç",
+        "brand": null,
+        "portion": "100g",
+        "nutrition": {
+            "calories": 341.0,
+            "fat": 0.4,
+            "carbs": 75.7,
+            "protein": 6.8
+        }
+    },
+    {
+        "name": "Yerli Pilavlık Pirinç",
+        "brand": null,
+        "portion": "100g",
+        "nutrition": {
+            "calories": 346.0,
+            "fat": 1.1,
+            "carbs": 76.7,
+            "protein": 7.8
+        }
+    },
+    {
+        "name": "Basmati",
+        "brand": null,
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 360.0,
+            "fat": 0.9,
+            "carbs": 77.07,
+            "protein": 8.51
+        }
+    },
+    {
+        "name": "Baldo Pirinç",
+        "brand": null,
+        "portion": "100g",
+        "nutrition": {
+            "calories": 347.0,
+            "fat": 1.0,
+            "carbs": 75.0,
+            "protein": 8.7
+        }
+    },
+    {
+        "name": "Pirinç Lapası",
+        "brand": null,
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 111.0,
+            "fat": 0.42,
+            "carbs": 23.72,
+            "protein": 2.26
+        }
+    },
+    {
+        "name": "Jasmine Pirinç",
+        "brand": null,
+        "portion": "100g",
+        "nutrition": {
+            "calories": 349.0,
+            "fat": 0.6,
+            "carbs": 77.6,
+            "protein": 7.9
+        }
+    },
+    {
+        "name": "Beyaz Pirinç",
+        "brand": null,
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 129.0,
+            "fat": 0.28,
+            "carbs": 27.9,
+            "protein": 2.66
+        }
+    },
+    {
+        "name": "Pilavlık İthal Pirinç",
+        "brand": null,
+        "portion": "100g",
+        "nutrition": {
+            "calories": 347.0,
+            "fat": 0.5,
+            "carbs": 80.2,
+            "protein": 5.1
+        }
+    }
+]
