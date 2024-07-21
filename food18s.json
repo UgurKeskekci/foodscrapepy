@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Piliç Çevirme",
+        "brand": null,
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 230.0,
+            "fat": 13.1,
+            "carbs": 0.0,
+            "protein": 26.29
+        }
+    },
+    {
+        "name": "Piliç Bonfile Göğüs",
+        "brand": "Banvit",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 101.0,
+            "fat": 1.4,
+            "carbs": 0.0,
+            "protein": 22.1
+        }
+    },
+    {
+        "name": "Piliç Izgara Tava",
+        "brand": "Banvit",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 149.0,
+            "fat": 8.4,
+            "carbs": 0.0,
+            "protein": 18.2
+        }
+    },
+    {
+        "name": "Fırında Tavuk",
+        "brand": null,
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 237.0,
+            "fat": 13.49,
+            "carbs": 0.0,
+            "protein": 27.07
+        }
+    },
+    {
+        "name": "Piliç Kalçalı But",
+        "brand": "Banvit",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 146.0,
+            "fat": 8.0,
+            "carbs": 0.0,
+            "protein": 18.5
+        }
+    },
+    {
+        "name": "Piliç Bonfile",
+        "brand": "Erpiliç",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 133.0,
+            "fat": 5.15,
+            "carbs": 0.9,
+            "protein": 20.89
+        }
+    },
+    {
+        "name": "Piliç Schnitzel",
+        "brand": "Banvit",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 266.0,
+            "fat": 14.3,
+            "carbs": 23.5,
+            "protein": 10.0
+        }
+    },
+    {
+        "name": "Piliç Bonfile",
+        "brand": "Lezita",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 140.0,
+            "fat": 2.0,
+            "carbs": 0.0,
+            "protein": 28.0
+        }
+    },
+    {
+        "name": "Piliç Pirzola",
+        "brand": "Banvit",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 146.0,
+            "fat": 8.0,
+            "carbs": 0.0,
+            "protein": 18.5
+        }
+    },
+    {
+        "name": "Piliç Salam",
+        "brand": "Tombik",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 170.0,
+            "fat": 11.5,
+            "carbs": 3.4,
+            "protein": 11.8
+        }
+    }
+]
