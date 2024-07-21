@@ -1,102 +1,332 @@
 [
     {
-        "name": "Fırında Patates",
-        "portion": "100 g",
+        "name": "Baldo Pirinç",
+        "brand": "Efsane",
+        "portion": "100g",
         "nutrition": {
-            "calories": 90.0,
-            "fat": 0.12,
-            "carbs": 20.53,
-            "protein": 2.43
+            "calories": 345.0,
+            "fat": 1.06,
+            "carbs": 77.24,
+            "protein": 0.0
         }
     },
     {
-        "name": "Patates",
+        "name": "Pirinç Pilavı",
+        "brand": null,
         "portion": "100 g",
         "nutrition": {
-            "calories": 70.0,
-            "fat": 0.1,
-            "carbs": 15.71,
-            "protein": 1.68
+            "calories": 125.0,
+            "fat": 3.24,
+            "carbs": 21.57,
+            "protein": 2.07
         }
     },
     {
-        "name": "Patates (İçi, Tuzlu, Haşlanmış)",
-        "portion": "100 g",
+        "name": "Osmancık Pirinç",
+        "brand": "Yayla",
+        "portion": "100g",
         "nutrition": {
-            "calories": 87.0,
-            "fat": 0.1,
-            "carbs": 20.13,
-            "protein": 1.87
+            "calories": 341.0,
+            "fat": 0.4,
+            "carbs": 75.7,
+            "protein": 6.8
         }
     },
     {
-        "name": "Ev Kızartması",
-        "portion": "1 kase",
+        "name": "Yerli Pilavlık Pirinç",
+        "brand": "Efsane",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 346.0,
+            "fat": 1.1,
+            "carbs": 76.7,
+            "protein": 7.8
+        }
+    },
+    {
+        "name": "Basmati",
+        "brand": null,
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 360.0,
+            "fat": 0.9,
+            "carbs": 77.07,
+            "protein": 8.51
+        }
+    },
+    {
+        "name": "Baldo Pirinç",
+        "brand": "Migros",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 347.0,
+            "fat": 1.0,
+            "carbs": 75.0,
+            "protein": 8.7
+        }
+    },
+    {
+        "name": "Pirinç Lapası",
+        "brand": null,
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 111.0,
+            "fat": 0.42,
+            "carbs": 23.72,
+            "protein": 2.26
+        }
+    },
+    {
+        "name": "Jasmine Pirinç",
+        "brand": "Yayla",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 349.0,
+            "fat": 0.6,
+            "carbs": 77.6,
+            "protein": 7.9
+        }
+    },
+    {
+        "name": "Beyaz Pirinç",
+        "brand": null,
+        "portion": "100 g",
+        "nutrition": {
+            "calories": 129.0,
+            "fat": 0.28,
+            "carbs": 27.9,
+            "protein": 2.66
+        }
+    },
+    {
+        "name": "Pilavlık İthal Pirinç",
+        "brand": "Migros",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 347.0,
+            "fat": 0.5,
+            "carbs": 80.2,
+            "protein": 5.1
+        }
+    },
+    {
+        "name": "Basmati Pirinç",
+        "brand": "Reis",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 354.0,
+            "fat": 0.2,
+            "carbs": 78.9,
+            "protein": 8.6
+        }
+    },
+    {
+        "name": "Baldo Pirinç",
+        "brand": "Anadolu Mutfağı",
+        "portion": "100g",
         "nutrition": {
             "calories": 359.0,
-            "fat": 18.7,
-            "carbs": 45.38,
-            "protein": 4.21
+            "fat": 1.3,
+            "carbs": 80.0,
+            "protein": 6.5
         }
     },
     {
-        "name": "Patates Yemeği",
-        "portion": "1 porsiyon",
+        "name": "Yasemin Kokulu Pirinç",
+        "brand": "Efsane",
+        "portion": "100g",
         "nutrition": {
-            "calories": 193.0,
-            "fat": 13.27,
-            "carbs": 17.79,
-            "protein": 1.94
+            "calories": 346.0,
+            "fat": 0.6,
+            "carbs": 79.0,
+            "protein": 6.4
         }
     },
     {
-        "name": "Kavrulmuş Patates",
+        "name": "Pilavlık Yerli Pirinç",
+        "brand": "Anadolu Mutfağı",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 359.0,
+            "fat": 1.3,
+            "carbs": 80.4,
+            "protein": 6.5
+        }
+    },
+    {
+        "name": "Baldo Pirinç",
+        "brand": "Ovadan",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 341.0,
+            "fat": 0.4,
+            "carbs": 75.7,
+            "protein": 6.8
+        }
+    },
+    {
+        "name": "Osmancık Pirinç",
+        "brand": "Duru",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 345.0,
+            "fat": 1.4,
+            "carbs": 75.2,
+            "protein": 7.2
+        }
+    },
+    {
+        "name": "Basmati Pirinç",
+        "brand": "Yayla",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 349.0,
+            "fat": 0.9,
+            "carbs": 77.4,
+            "protein": 9.8
+        }
+    },
+    {
+        "name": "İthal Pilavlık Pirinç",
+        "brand": "Ovadan",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 359.0,
+            "fat": 1.3,
+            "carbs": 80.4,
+            "protein": 6.5
+        }
+    },
+    {
+        "name": "Baldo Pirinç",
+        "brand": "Duru",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 351.0,
+            "fat": 1.4,
+            "carbs": 77.4,
+            "protein": 6.3
+        }
+    },
+    {
+        "name": "Sarı Pirinç",
+        "brand": null,
         "portion": "100 g",
         "nutrition": {
-            "calories": 149.0,
-            "fat": 7.0,
-            "carbs": 20.06,
-            "protein": 2.32
+            "calories": 95.0,
+            "fat": 0.17,
+            "carbs": 20.86,
+            "protein": 1.89
         }
     },
     {
-        "name": "Patates (İçi, Tuzsuz, Haşlanmış)",
+        "name": "Kahverengi ve Yabani Pirinç",
+        "brand": null,
         "portion": "100 g",
         "nutrition": {
-            "calories": 87.0,
-            "fat": 0.1,
-            "carbs": 20.13,
-            "protein": 1.87
+            "calories": 113.0,
+            "fat": 2.61,
+            "carbs": 20.05,
+            "protein": 2.35
         }
     },
     {
-        "name": "Pişmiş Patates (Kabuğu Yenmeden)",
-        "portion": "1 orta boy",
+        "name": "Pirinç Unu",
+        "brand": "Migros",
+        "portion": "100g",
         "nutrition": {
-            "calories": 121.0,
-            "fat": 0.13,
-            "carbs": 28.02,
-            "protein": 2.55
+            "calories": 342.0,
+            "fat": 0.3,
+            "carbs": 78.0,
+            "protein": 5.6
         }
     },
     {
-        "name": "Fırında Pişmiş Patates (Kabuğu Yenmiş)",
-        "portion": "1 orta boy",
+        "name": "Osmancık Pirinç",
+        "brand": "Hünkar",
+        "portion": "100g",
         "nutrition": {
-            "calories": 194.0,
-            "fat": 3.92,
-            "carbs": 36.54,
-            "protein": 4.32
+            "calories": 331.0,
+            "fat": 0.93,
+            "carbs": 71.13,
+            "protein": 7.26
         }
     },
     {
-        "name": "Patates Püresi",
+        "name": "Keten Tohumu",
+        "brand": "Yayla",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 454.0,
+            "fat": 33.1,
+            "carbs": 38.4,
+            "protein": 18.1
+        }
+    },
+    {
+        "name": "Siyah Pirinç",
+        "brand": "Dimyat",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 370.0,
+            "fat": 3.0,
+            "carbs": 77.0,
+            "protein": 8.0
+        }
+    },
+    {
+        "name": "Yapışkan Pirinç ve Kuru Fasulye ile Yapılan Kek",
+        "brand": null,
+        "portion": "1 adet",
+        "nutrition": {
+            "calories": 30.0,
+            "fat": 0.05,
+            "carbs": 6.02,
+            "protein": 1.25
+        }
+    },
+    {
+        "name": "Karabuğday Pilavı",
+        "brand": null,
         "portion": "100 g",
         "nutrition": {
-            "calories": 100.0,
-            "fat": 3.54,
-            "carbs": 15.72,
-            "protein": 1.8
+            "calories": 210.0,
+            "fat": 8.06,
+            "carbs": 31.83,
+            "protein": 5.79
+        }
+    },
+    {
+        "name": "Basmati Pirinç",
+        "brand": "Damla",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 365.0,
+            "fat": 0.7,
+            "carbs": 80.0,
+            "protein": 7.1
+        }
+    },
+    {
+        "name": "Crunch Beyaz Çikolata",
+        "brand": "Nestle",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 531.0,
+            "fat": 28.0,
+            "carbs": 63.0,
+            "protein": 6.7
+        }
+    },
+    {
+        "name": "Pirinç Unu",
+        "brand": "Bizim",
+        "portion": "100g",
+        "nutrition": {
+            "calories": 366.0,
+            "fat": 1.4,
+            "carbs": 80.1,
+            "protein": 5.9
         }
     }
 ]

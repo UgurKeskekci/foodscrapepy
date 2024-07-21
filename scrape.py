@@ -73,11 +73,21 @@ def scrape_data(query, num_pages):
             all_foods.extend(foods)
 
         print('Veriler işleniyor, JSON dosyasına kaydediliyor...')
-        with open('food21s.json', 'w', encoding='utf-8') as f:
+        with open('foods.json', 'w', encoding='utf-8') as f:
             json.dump(all_foods, f, ensure_ascii=False, indent=4)
         print('Veriler JSON dosyasına kaydedildi.')
+
+        # Send data to the server
+        url = 'http://localhost:3000/api/foods'
+        headers = {'Content-Type': 'application/json'}
+        for food in all_foods:
+            response = requests.post(url, headers=headers, data=json.dumps(food))
+            if response.status_code == 201:
+                print(f"{food['name']} başarıyla eklendi.")
+            else:
+                print(f"{food['name']} eklenemedi. Hata: {response.text}")
 
     except Exception as e:
         print(f'Hata: {e}')
 
-scrape_data('tavuk', 21)  # 'pirinç' araması için 3 sayfa veriyi çek
+scrape_data('pirinç', 3)  # 'pirinç' araması için 3 sayfa veriyi çek
